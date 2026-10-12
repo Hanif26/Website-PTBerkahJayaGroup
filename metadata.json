@@ -1,0 +1,6 @@
+{
+  "name": "PT BerkahJayaGroup — Peternakan Terpadu & Berkelanjutan",
+  "description": "Website profil perusahaan PT BerkahJayaGroup, penyedia solusi peternakan sapi, unggas, domba, pakan ternak berkualitas tinggi, dan kemitraan agribisnis berkelanjutan di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
